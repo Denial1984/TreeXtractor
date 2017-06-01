@@ -2,7 +2,11 @@
 iRacing App for windows. Get data from iRacing for you DIY project.
 
 
+#Changelog 0.74
 
+-Fix change_RPM_max shift light
+-Fix more precise speed.
+-bugfix.
 
 
 #Changelog 0.72
