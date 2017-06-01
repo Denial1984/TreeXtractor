@@ -5,7 +5,7 @@ iRacing App for windows. Get data from iRacing for you DIY project.
 
 
 
-#Changelog 0.71
+#Changelog 0.72
 
 -Borderless interface,
 
