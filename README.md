@@ -2,7 +2,10 @@
 iRacing App for windows. Get data from iRacing for you DIY project.
 
 
-#Changelog 1.67
+
+
+
+#Changelog 0.71
 
 -Borderless interface,
 
@@ -10,3 +13,6 @@ iRacing App for windows. Get data from iRacing for you DIY project.
 
 -Same resolution optimized for LCD 480x272 (LCD USB).
 
+-New Gear-change indicator
+
+-Sorry for Debug Text
