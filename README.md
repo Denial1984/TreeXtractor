@@ -1,6 +1,15 @@
 # TreeXtractor
 iRacing App for windows. Get data from iRacing for you DIY project.
 
+#Changelog 0.79
+
+-Added Flags
+
+-Added Best Time Lap
+
+-bugfix.
+
+
 
 #Changelog 0.74
 
