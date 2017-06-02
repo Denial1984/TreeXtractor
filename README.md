@@ -3,9 +3,11 @@ iRacing App for windows. Get data from iRacing for you DIY project.
 
 #Changelog 0.79
 
--Added Flags
+-Added Flags (black,yellow more coming...) 
 
 -Added Best Time Lap
+
+-Added PIT flag
 
 -bugfix.
 
