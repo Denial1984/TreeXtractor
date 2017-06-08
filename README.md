@@ -5,8 +5,6 @@ iRacing App for windows. Get data from iRacing for you DIY project.
 
 -New Beta 0.8 implements USBD480: USB-LCD display http://lcdinfo.com/ .
 
--Use Stable Version 0.79 for virtual-dash display only.
-
 -Many improvement coming soon...
 
 
