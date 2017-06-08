@@ -1,6 +1,15 @@
 # TreeXtractor
 iRacing App for windows. Get data from iRacing for you DIY project.
 
+#Changelog 0.8 Beta
+
+-New Beta 0.8 implements USBD480 display .
+
+-Use Stable Version 0.79 for virtual-dash display only.
+
+-Many improvement coming soon...
+
+
 #Changelog 0.79
 
 -Added Flags (black,yellow more coming...) 
