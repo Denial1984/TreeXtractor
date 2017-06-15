@@ -5,9 +5,13 @@ iRacing App for windows. Get data from iRacing for you DIY project.
 #Changelog 0.81 Beta
 
 -Improve data management,
+
 -UI new way modular system. (now you can drag and drop rpm bar),
+
 -Multi*Data*Send [MDS] peripherals improved. USBD480 back to work,
+
 -bugfix,
+
 -new Design.
 
 
