@@ -1,6 +1,24 @@
 # TreeXtractor
 iRacing App for windows. Get data from iRacing for you DIY project.
 
+#Changelog AUGUST 2017
+
+Hi again,
+
+new sideAPP of treeXtractor it's born (in future will be fuse with main app).
+
+TreeXtractorBTB.rar
+
+This app send to you selected serial/COM a string that represent some data extracted from iRacing game.
+
+Command: ($X == command )+(XX == value)
+
+$0XX Active LED regards rpm bar example: $01 says 1 led should be active , $012 12 led should be active. (can handle max 12 led).
+
+$1XX GEAR  where XX can be -1 (for reverse) , 0 (for neutral), 1 2 3 4 5.....  (can handle 8 Gears + neutral and reverse)
+
+That's all for now!
+
 
 #Changelog 0.81 Beta
 
