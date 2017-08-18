@@ -3,13 +3,18 @@
 iRacing App for windows. Get data from iRacing for you DIY project.
 
 
+#Changelof 18/8/2017
+
+-Added Assetto Corsa compatibility.
+
+
 #Changelog AUGUST 2017
 
 Hi again,
 
 new sideAPP of treeXtractor it's born (in future will be fuse with main app).
 
-TreeXtractorBTB.rar
+TreeXtractor19817.rar
 
 This app send to you selected serial/COM a string that represent some data extracted from iRacing game.
 
